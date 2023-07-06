@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "materialfoljesedel", "materialfoljesedel\materialfoljesedel.csproj", "{8F116E52-DCFB-4940-9FA8-E6DA83866E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F116E52-DCFB-4940-9FA8-E6DA83866E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F116E52-DCFB-4940-9FA8-E6DA83866E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F116E52-DCFB-4940-9FA8-E6DA83866E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F116E52-DCFB-4940-9FA8-E6DA83866E76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BD24A4-B56B-45D6-959E-045E58E11D78}
+	EndGlobalSection
+EndGlobal
